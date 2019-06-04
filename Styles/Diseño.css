@@ -1,0 +1,38 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    text-align: center;
+    color: cornflowerblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3{
+    text-align: right;
+    color: cornflowerblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.Tablero{
+    margin: 0 auto;
+    width: 600px;
+    height: 600px;
+
+}
+.Fila-Casillas{
+    width: 600px;
+    height: 12.5%;
+}
+.Casilla-Negra{
+    background-color: black;
+    width: 12.5%;
+    height: 100%;
+    float: left;
+}
+.Casilla-Blanca{
+    background-color:whitesmoke;
+    width: 12.5%;
+    height: 100%;
+    float: left;
+}

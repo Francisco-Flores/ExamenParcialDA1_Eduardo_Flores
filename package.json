@@ -1,0 +1,31 @@
+{
+  "name": "tablero_franciscoeduardo_floresalvarado",
+  "version": "1.0.0",
+  "description": "Examen de Aplicaciones Web. Primer Parcial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Francisco-Flores/ExamenParcialDA1_Eduardo_Flores.git"
+  },
+  "author": "FRANCISCO EDUARDO FLORES ALVARADO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francisco-Flores/ExamenParcialDA1_FranciscoEduardo_FloresAlvarado/issues"
+  },
+  "homepage": "https://github.com/Francisco-Flores/ExamenParcialDA1_FranciscoEduardo_FloresAlvarado#readme",
+  "keywords": [
+    "Francisco",
+    "Eduardo",
+    "Flores",
+    "Alvarado"
+  ],
+  "dependencies": {
+    "bower": "^1.8.8",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
